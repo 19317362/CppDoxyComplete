@@ -8,7 +8,7 @@ namespace PopDragos.CppDoxyComplete
     {
         public const string guidCppDoxyCompletePkgString = "66281e1a-6cb9-45db-95df-8bb60af6bef3";
         public const string guidCppDoxyCompleteCmdSetString = "e6c43674-5eb9-4684-9f66-dcf1e93ab2e2";
-
+        public const string guidCppTripleSlashPkgString = "7F3F2AB6-6F28-4E29-948A-F64AE6A51873";//[Guid("7F3F2AB6-6F28-4E29-948A-F64AE6A51873")]
         public static readonly Guid guidCppDoxyCompleteCmdSet = new Guid(guidCppDoxyCompleteCmdSetString);
     };
 }

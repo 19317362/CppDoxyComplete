@@ -1,6 +1,7 @@
 ﻿namespace CppTripleSlash
 {
     using Microsoft.VisualStudio.Shell;
+    using PopDragos.CppDoxyComplete;
     using System;
     using System.Runtime.InteropServices;
 
